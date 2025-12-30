@@ -1,4 +1,5 @@
 # DeepFM-CTR-PyTorch
+**[Download My Full CV (PDF)](./CV_LIN_HAIYUN_NTU.pdf)**
 A PyTorch implementation of DeepFM for Click-Through-Rate (CTR) prediction on the Criteo dataset, achieving AUC 
 
 # 🚀 Highlights
